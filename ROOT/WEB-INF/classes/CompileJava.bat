@@ -1,0 +1,2 @@
+"C:\Program Files\Java\jdk1.8.0_161\bin\javac.exe" -cp C:\xampp\tomcat\lib\mysql-connector-java-5.1.45-bin.jar;C:\xampp\tomcat\lib\servlet-api.jar;activation.jar;javax.mail.jar ConnectToMySql.java SendMail.java connector.jar
+pause

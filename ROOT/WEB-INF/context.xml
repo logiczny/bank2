@@ -1,0 +1,4 @@
+<Manager pathname="">
+      <saveOnRestart>false</saveOnRestart>
+</Manager> 
+<Resource auth="Container" mail.smtp.host="localhost" name="ConnectToMySql" type="javax.mail.Session"/>
